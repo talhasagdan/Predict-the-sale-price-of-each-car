@@ -21,6 +21,9 @@ __test.csv: the test set.__
 
 # Part 1
 
+One Hot Encoding / Standart Scaling / Linear Regression / Cross Validation
+
+Polynomial Features / Regularization Curve / Grid Search
 
 
 # Part 2
