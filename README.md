@@ -34,11 +34,13 @@ KNN REGRESSOR / DECISION TREE REGRESSOR / ENSEMBLE BAGGING REGRESSOR
 __Parameters__
 
 __c)__
-<img src="https://user-images.githubusercontent.com/43733194/76403061-642a6b80-6395-11ea-9907-58bea485ccef.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/43733194/76403061-642a6b80-6395-11ea-9907-58bea485ccef.png" width="400" >
 
 __e)__
-<img src="(https://user-images.githubusercontent.com/43733194/76403051-61c81180-6395-11ea-8b07-37aab7b15e85.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/43733194/76403051-61c81180-6395-11ea-8b07-37aab7b15e85.png" width="400" >
 
 __g)__
-<img src="(https://user-images.githubusercontent.com/43733194/76403058-6391d500-6395-11ea-8e08-9c1be9ebdafb.png" width="400">
 
+<img src="https://user-images.githubusercontent.com/43733194/76403058-6391d500-6395-11ea-8e08-9c1be9ebdafb.png" width="400">
